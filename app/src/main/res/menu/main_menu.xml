@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Renidesdonnées"
+            android:icon="@drawable/trace"
+            android:title="Reinitialisation des données"
+            >
+
+        </item>
+
+    </group>
+
+
+
+        <item android:title="Paramétres">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/reminder"
+                    android:icon="@drawable/rappel"
+                    android:title="Rappel">
+
+                </item>
+                </group>
+            </menu>
+        </item>
+
+
+
+        <item android:title="Utilisateur">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/updatepassword"
+                    android:icon="@drawable/para"
+                    android:title="Changer le mot de passe">
+
+                </item>
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/logout"
+                    android:title="Déconnecter">
+
+                </item>
+                </group>
+            </menu>
+        </item>
+
+
+
+
+
+</menu>

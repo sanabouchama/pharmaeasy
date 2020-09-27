@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PharmaEasy</string>
+    <string name="confirmer_mot_de_passe">Confirmer mot de passe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="attention">Attention</string>
+    <string name="yes">oui</string>
+    <string name="no">Non</string>
+    <string name="dummy_text">Si  vous voulez  continuer avec vottre choix  tous les données vont ètre supprimée ??</string>
+    <string name="mednum1">Med num 1</string>
+</resources>
